@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">greekquiz</string>
+    <string name="q1">1. Who was the mother of Artemis and Apollo ?</string>
+    <string name="q2">2. What is the Latin name of Hermes ?</string>
+    <string name="q3">3. What is the name of the festival in honor of Athena? </string>
+    <string name="q4">4. How was the first man created ?</string>
+    <string name="q5">5. Who is the early sea-god or god of rivers referred by Homer ?</string>
+    <string name="q6">6. Pan was also a Satyr depicted as which of the followings ?</string>
+    <string name="q7">7. Which of the followings Poseidon is known for  ?</string>
+    <string name="q8">8. Which constellation of the zodiac associated with Castor ?</string>
+    <string name="q9">9. Which year of the Trojan war described in Iliad  ?</string>
+    <string name="q10">10. ..... inspiration for writers and poets as the morning and evening star?</string>
+    <string name="greek_mythology_quiz">Greek Mythology Quiz</string>
+    <string name="panathenees">Panathenees</string>
+    <string name="adonis_created_man_from_sea">Adonis created man from sea</string>
+    <string name="hephaistos_created_man">Hephaistos created man</string>
+    <string name="zeus_created_man_from_the_rocks_of_ida">Zeus created man from the rocks of Ida</string>
+    <string name="prometheus_created_man_from_mud">Prometheus created man from mud</string>
+    <string name="sphinx">Sphinx</string>
+    <string name="kylleni">Kylleni</string>
+    <string name="neptun">Neptun</string>
+    <string name="vesta">Vesta</string>
+    <string name="febus">Febus</string>
+    <string name="mercur">Mercury</string>
+    <string name="demeter">Demeter</string>
+    <string name="rhea">Rhea</string>
+    <string name="leto">Leto</string>
+    <string name="hera">Hera</string>
+    <string name="half_man">half man</string>
+    <string name="god_of_sea">God of Sea</string>
+    <string name="god_of_horse">God of Horse</string>
+    <string name="god_of_war">God of War</string>
+    <string name="god_of_healing">God of Healing</string>
+    <string name="please_fill_the_answer">Please fill the answer</string>
+    <string name="submit">Submit</string>
+    <string name="hephaistos">Hephaistos</string>
+    <string name="fillAnswer">Please fill the answer</string>
+    <string name="twentyFive">25th</string>
+    <string name="tenth">10th</string>
+    <string name="fifth">5th</string>
+    <string name="twelveth">12th</string>
+    <string name="halfHorse">half horse</string>
+    <string name="halfGoat">half goat</string>
+    <string name="halfDragon">half dragon</string>
+
+
+</resources>

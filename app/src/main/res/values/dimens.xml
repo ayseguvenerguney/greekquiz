@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginBottom">5dp</dimen>
+    <dimen name="marginLeft">22dp</dimen>
+    <dimen name="padTex">15dp</dimen>
+    <dimen name="textSize">17sp</dimen>
+    <dimen name="checkBottom">5dp</dimen>
+    <dimen name="checkLeft">22dp</dimen>
+</resources>
